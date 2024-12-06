@@ -8,5 +8,7 @@
 |   `-- CODEOWNERS
 |-- O-REILLY
 |   `-- Data-Structures-and-Algorithms
+|       `-- recursive-and-backtracking
+|           `-- p36-2-2.c
 `-- README.md
 ```
